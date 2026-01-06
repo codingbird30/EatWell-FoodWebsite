@@ -1,6 +1,7 @@
 # Restaurant-Website (Responsive)
-Website Link - https://restaurant-website-sp.netlify.app/
+Website Link - [https://shwetasingh-eatwell.netlify.app/](https://shwetasingh-eatwell.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7bb44abc-aa34-4d48-8b11-dd8598ed31f7/deploy-status)](https://app.netlify.com/sites/restaurant-website-sp/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd3b9d47-39b0-4e06-aeb6-448d3e13ad7d/deploy-status)](https://app.netlify.com/projects/shwetasingh-eatwell/deploys)
 
 This is a responsive website made with only HTML and CSS.
+
